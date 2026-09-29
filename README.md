@@ -5,7 +5,7 @@
 ## Что я изучаю
 - commit
 - push/pull
-- bracn/merge
+- branch/merge
 
 ## Как запустить
-python main.py
+"""python main.py"""
